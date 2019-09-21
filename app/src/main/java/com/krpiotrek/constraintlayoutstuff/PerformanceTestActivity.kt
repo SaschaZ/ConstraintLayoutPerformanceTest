@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.widget.SeekBar
 import androidx.appcompat.app.AppCompatActivity
+import kotlinx.android.synthetic.main.performance_test_activity.*
 import kotlinx.coroutines.*
 import kotlin.math.pow
 import kotlin.system.measureNanoTime
